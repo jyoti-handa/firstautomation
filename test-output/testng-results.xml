@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-29T16:23:36 GMT-04:00" name="Default suite" finished-at="2021-10-29T16:23:43 GMT-04:00" duration-ms="7061">
+    <groups>
+    </groups>
+    <test started-at="2021-10-29T16:23:36 GMT-04:00" name="Default test" finished-at="2021-10-29T16:23:43 GMT-04:00" duration-ms="7061">
+      <class name="automation.extentreport">
+        <test-method is-config="true" signature="start()[pri:0, instance:automation.extentreport@71def8f8]" started-at="2021-10-29T16:23:36 GMT-04:00" name="start" finished-at="2021-10-29T16:23:36 GMT-04:00" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="orangeLogin()[pri:0, instance:automation.extentreport@71def8f8]" started-at="2021-10-29T16:23:36 GMT-04:00" name="orangeLogin" finished-at="2021-10-29T16:23:43 GMT-04:00" duration-ms="7034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeLogin -->
+        <test-method is-config="true" signature="finsh()[pri:0, instance:automation.extentreport@71def8f8]" started-at="2021-10-29T16:23:43 GMT-04:00" name="finsh" finished-at="2021-10-29T16:23:43 GMT-04:00" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finsh -->
+      </class> <!-- automation.extentreport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
